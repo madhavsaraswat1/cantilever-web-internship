@@ -8,8 +8,8 @@ Two full-stack projects built with **React (Vite), Node.js/Express, MongoDB and 
 | `task-manager` | Register / login / logout, task CRUD, filter by status and priority, sort by date or title, responsive design |
 
 ## Live demo
-- Blog: _add your Netlify link_
-- Task Manager: _add your Netlify link_
+- Blog: https://aquamarine-sawine-96c2ef.netlify.app
+- Task Manager: https://fluffy-raindrop-f828de.netlify.app
 
 ## How to run locally
 For each project (`blog-website` or `task-manager`):
